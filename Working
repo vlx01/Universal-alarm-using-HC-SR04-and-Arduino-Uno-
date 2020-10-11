@@ -11,3 +11,19 @@ sensor detector is based on time of travel after the trigger pulse to the surrou
 non-linear and depends on the reflectance characteristics of the object surface. They offer low
 cost and a precision of less than 1 cm in distance measurements of up to 6m.
 
+This application is based upon the reflection of sound waves. Sound waves are defined as
+longitudinal pressure waves in the medium in which they are travelling. Subjects whose
+dimensions are larger than the wavelength of the impinging sound waves reflect them, the
+reflected waves are called the echo. If the speed of sound in the medium is known and the time
+taken for the sound waves to travel the distance from the source to the subject and back to the
+source is measured, the distance from the source to the subject can be computed accurately. This
+is the measurement principle of this application.
+
+
+In this work, distance of the object is measured through ultrasonic distance sensor and the sensor
+output is connected to signal conditioning unit and after that it is processed through Arduino
+microcontroller, the measured results are displayed in liquid crystal display. The results are
+transferred to the system where the predefined distance range is specified and if satisfied, further
+commands are passed to the buzzer and it then beeps. This application is also used to find the
+obstacles detection and the exact distance can also be obtained. The measured distance is
+displayed on the LCD display.
