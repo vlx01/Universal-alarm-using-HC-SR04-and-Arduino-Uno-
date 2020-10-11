@@ -11,6 +11,7 @@ sensor detector is based on time of travel after the trigger pulse to the surrou
 non-linear and depends on the reflectance characteristics of the object surface. They offer low
 cost and a precision of less than 1 cm in distance measurements of up to 6m.
 
+
 This application is based upon the reflection of sound waves. Sound waves are defined as
 longitudinal pressure waves in the medium in which they are travelling. Subjects whose
 dimensions are larger than the wavelength of the impinging sound waves reflect them, the
